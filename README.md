@@ -167,7 +167,7 @@ Work in the AWS EU-West-1 (Ireland) region.
 ## Screenshots
 
 ### 1. VPC Creation
-![VPC Creation](screenshots/vpc_creation.png)
+![VPC Creation](screenshots-of-my-workinng/KCVPC_SCREENSHOT.PNG)
 
 ### 2. Public Subnet Creation
 ![Public Subnet Creation](screenshots/public_subnet_creation.png)
