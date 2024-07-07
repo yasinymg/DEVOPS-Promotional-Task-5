@@ -167,16 +167,16 @@ Work in the AWS EU-West-1 (Ireland) region.
 ## Screenshots
 
 ### 1. VPC Creation
-![VPC Creation](screenshots-of-my-workinng/KCVPC_SCREENSHOT.PNG)
+![VPC Creation](screenshots_of_my_workinng/KCVPC_SCREENSHOT.PNG)
 
 ### 2. Public Subnet Creation
-![Public Subnet Creation](screenshots/public_subnet_creation.png)
+![Public Subnet Creation](screenshots_of_my_workinng/PUBLICSUBNET.PNG)
 
 ### 3. Private Subnet Creation
-![Private Subnet Creation](screenshots/private_subnet_creation.png)
+![Private Subnet Creation](screenshots_of_my_workinng/PRIVATESUBNET.PNG)
 
 ### 4. Internet Gateway Configuration
-![Internet Gateway](screenshots/internet_gateway.png)
+![Internet Gateway](screenshots_of_my_workinng/INTERNET_GATEAWAY_WITH_ATTACHED_VPC.PNG)
 
 ### 5. Route Table Configuration
 ![Public Route Table](screenshots/public_route_table.png)
