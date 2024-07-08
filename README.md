@@ -165,3 +165,4 @@ Work in the AWS EU-West-1 (Ireland) region.
 - Verify that the instance can access the internet through the NAT Gateway and can communicate with the public instance.
 
 ### screenshots are in the screenshots directory
+### A brief explanation of the purpose and function of each component created (VPC, subnets, IGW, NAT Gateway, route tables, security groups, NACLs) are in the report.
