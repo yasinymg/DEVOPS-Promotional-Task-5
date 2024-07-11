@@ -167,7 +167,7 @@ Work in the AWS EU-West-1 (Ireland) region.
 ### screenshots 
 
 ### 1. VPC Creation
-![VPC Creation](screenshots/KCVPCSCREENSHOT.PNG)
+![VPC Creation](screenshots/kcvpc.png)
 
 
 ### A brief explanation of the purpose and function of each component created (VPC, subnets, IGW, NAT Gateway, route tables, security groups, NACLs) are in the report.
