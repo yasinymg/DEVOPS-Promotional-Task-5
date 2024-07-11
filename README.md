@@ -173,9 +173,29 @@ Work in the AWS EU-West-1 (Ireland) region.
 ![public subnet creation](screenshots/PUBLIC_SUBNET.PNG)
 
 ### 3. private subnet creation
-![private subnet creation](PRIVATE_SUBNET.PNG)
+![private subnet creation](screenshots/PRIVATE_SUBNET.PNG)
+
+### 4.Internet gateaway configuration
+![Inernet Gateaway](screensots/INTERNET_GATEAWAY_WITH_ATTACHED_VPC.PNG)
+
+### 5. Route table Configuration
+![Public Route Table](screenshots/PUBLIC_ROUTE_TABLE_WITH_ATTACHED_IGW_AND_PUBLIC_SUBNET.PNG)
+![Private Route Table](PRIVATE_ROUTE_TABLE_WITH_ATTACHED_PRIVATE_SUBNET.PNG)
+
+### 6. Nat Gateaway Configuration
+![Nat Gateaway](screenshots/NAT_GATEAWAY.PNG)
+
+### 7. Security Group Configuration
+![Public Security Group](screenshots/security_groups_under_kc_webserver.png)
+
+
+### 8.Network acl configuration
+![Public network NACL](screenshots/setting_inbound_rules_for_public_subnet.png)
+![private network NACL](screenshots/setting_inbound_security_group_to_private_subnet.png)
+
+### 9. EC2 Instance deployment
+![public EC2 Instance](screenshots/public_EC2_running.png)
 
 
 
 
-### A brief explanation of the purpose and function of each component created (VPC, subnets, IGW, NAT Gateway, route tables, security groups, NACLs) are in the report.
