@@ -176,11 +176,11 @@ Work in the AWS EU-West-1 (Ireland) region.
 ![private subnet creation](screenshots/PRIVATE_SUBNET.PNG)
 
 ### 4.Internet gateaway configuration
-![Inernet Gateaway](screensots/INTERNET_GATEAWAY_WITH_ATTACHED_VPC.PNG)
+![Inernet Gateaway](screenshots/INTERNET_GATEAWAY_WITH_ATTACHED_VPC.PNG)
 
 ### 5. Route table Configuration
 ![Public Route Table](screenshots/PUBLIC_ROUTE_TABLE_WITH_ATTACHED_IGW_AND_PUBLIC_SUBNET.PNG)
-![Private Route Table](PRIVATE_ROUTE_TABLE_WITH_ATTACHED_PRIVATE_SUBNET.PNG)
+![Private Route Table](screenshots/PRIVATE_ROUTE_TABLE_WITH_ATTACHED_PRIVATE_SUBNET.PNG)
 
 ### 6. Nat Gateaway Configuration
 ![Nat Gateaway](screenshots/NAT_GATEAWAY.PNG)
