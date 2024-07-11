@@ -164,5 +164,10 @@ Work in the AWS EU-West-1 (Ireland) region.
 - Repeat the above steps, but select the **PrivateSubnet** and use the **Private Instances Security Group**.
 - Verify that the instance can access the internet through the NAT Gateway and can communicate with the public instance.
 
-### screenshots are in the screenshots directory
+### screenshots 
+
+### 1. VPC Creation
+![VPC Creation](screenshots/KCVPCSCREENSHOT.PNG)
+
+
 ### A brief explanation of the purpose and function of each component created (VPC, subnets, IGW, NAT Gateway, route tables, security groups, NACLs) are in the report.
